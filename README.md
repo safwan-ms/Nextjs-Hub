@@ -55,7 +55,7 @@ This repository is designed for hands-on learning and practice with Next.js, cov
 ```
 
 ## Prerequisites
-- Node.js (required for Next.js projects)
+- Node.js (required for NextJS projects)
 
 ---
 This repository is intended for educational purposes and experimentation with Next.js and modern web development tools.
